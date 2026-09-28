@@ -279,8 +279,10 @@ section { scroll-margin-top: 88px; }
 
 @media (max-width: 560px) {
   .shell { width: min(100% - 28px,1240px); }
-  .site-header nav a:first-child, .site-header nav a:last-child { display: none; }
-  .site-header nav { gap: 24px; }
+  .header-inner { gap: 14px; }
+  .site-header nav a:first-child { display: none; }
+  .site-header nav { gap: clamp(12px,4vw,24px); }
+  .site-header nav a { font-size: clamp(10px,2.7vw,11px); white-space: nowrap; }
   .hero-inner { padding-top: 125px; padding-bottom: 100px; }
   .hero h1 { font-size: clamp(54px,17vw,74px); }
   .hero-description { margin-top: 26px; font-size: 14px; }
