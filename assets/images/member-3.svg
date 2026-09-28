@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="Chân dung minh họa Thu Hà">
+  <rect width="600" height="500" fill="#f5e7dd"/>
+  <circle cx="519" cy="390" r="120" fill="#edcfbd"/>
+  <path d="M0 385c94-56 154-36 225 13 131 90 260-55 375-33v135H0Z" fill="#efdbc9"/>
+  <path d="M151 500c11-112 48-166 147-170 102-4 155 64 164 170Z" fill="#d17758"/>
+  <path d="M265 300h83v74c-23 25-61 25-83 0Z" fill="#b77756"/>
+  <path d="M212 205c-8-87 24-135 99-139 68-3 109 49 102 135-1 78-27 131-44 174l-35-38 14-151-135 50Z" fill="#27283c"/>
+  <ellipse cx="305" cy="215" rx="82" ry="101" fill="#d99a75"/>
+  <path d="M222 219c-4-77 17-120 75-132 49-10 103 23 111 89-39 5-77-15-104-42-17 36-45 65-82 85Z" fill="#27283c"/>
+  <path d="M218 193c-25 79-16 160 25 197l27-31c-24-52-27-104-28-151Z" fill="#27283c"/>
+  <path d="M383 182c31 75 25 163-19 209l-31-29c28-54 34-112 32-153Z" fill="#27283c"/>
+  <path d="M265 216h18m59 0h18" stroke="#513b33" stroke-width="7" stroke-linecap="round"/>
+  <path d="M298 251q8 9 16 0m-36 31q27 16 54-1" fill="none" stroke="#9c514a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="229" cy="273" r="7" fill="#f1d27c"/><circle cx="382" cy="273" r="7" fill="#f1d27c"/>
+  <path d="M96 128l8-19 8 19 19 8-19 8-8 19-8-19-19-8Z" fill="#fff" opacity=".9"/>
+</svg>
