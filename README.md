@@ -13,7 +13,7 @@ deployment/nginx.conf
 Platform: GitHub Pages
 
 Public URL:
-https://USERNAME.github.io/team-profile/
+https://PandMin426.github.io/team-profile/
 
 ## Evidence
 - evidence/local-hosting.png
