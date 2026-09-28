@@ -180,7 +180,7 @@ section { scroll-margin-top: 88px; }
 .modal-kicker { margin: 0 0 12px; color: #6b53d5; font-size: 11px; font-weight: 900; letter-spacing: .13em; text-transform: uppercase; }
 .profile-modal .modal-panel { display: grid; grid-template-columns: 340px 1fr; min-height: 570px; }
 .profile-modal-visual { position: relative; overflow: hidden; background: var(--profile-bg,#ddd5ff); border-radius: 28px 0 0 28px; }
-.profile-modal-visual img { width: 100%; height: 100%; object-fit: cover; }
+.profile-modal-visual img { width: 100%; height: 100%; object-fit: contain; object-position: center; }
 .profile-modal-visual span { position: absolute; left: 22px; bottom: 18px; color: rgba(21,21,33,.45); font-size: 12px; font-weight: 900; }
 .profile-modal-content { padding: 62px 46px 45px; }
 .profile-modal-content h2, .project-modal h2 { margin: 0; font-size: clamp(38px,5vw,64px); line-height: .95; letter-spacing: -.06em; }
